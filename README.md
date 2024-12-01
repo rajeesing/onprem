@@ -12,7 +12,15 @@ This screen may popup with this error and the one possible reason is that your f
 
 ![image](https://github.com/rajeesing/onprem/assets/7796293/042bc39c-0949-4b19-9609-b31eac85e92c)
 
+
+
 ![image](https://github.com/rajeesing/onprem/assets/7796293/8074756a-2987-4bc8-b353-f41cd6dd9965)
+### Azure Relay
+This service enables you to securely expose services that run in your corporate netwrok to the public cloud.  You can do so without opening a port on your firewall, or making intrusive changes to your corporate network infrastructure. (courtsey: [MSDN](https://learn.microsoft.com/en-us/azure/azure-relay/relay-what-is-it))
+
+![image](https://github.com/user-attachments/assets/a297dc84-2666-4f0a-b57e-7d1618f419ff)
+
+
 
 
 
